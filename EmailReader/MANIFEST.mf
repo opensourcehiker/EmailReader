@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: email.reader.core.EmailCore
+Class-Path: javax.mail.jar
+SplashScreen-Image: Splash.png
